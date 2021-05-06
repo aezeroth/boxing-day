@@ -8,6 +8,8 @@
 - [ ] Touchscreen button inputs, confirm multiple buttons at once
 
 # Mechanics
+- [ ] Health bar
+- [ ] Timer
 - [ ] Dodge/lean
 - [ ] Jab
 - [ ] Hook
